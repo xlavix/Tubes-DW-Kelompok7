@@ -1,0 +1,33 @@
+.lingkaran{
+  width: 225px;
+  height: 221px;
+  border-radius: 500px;
+  background: #FFDA6A;
+  display: table;
+}
+
+.lingkaran p{
+  font-size: 20px;
+  font-weight: bold;
+  vertical-align: middle ;
+  text-align: center;
+  display: table-cell;
+}
+
+.navbar{
+  background-color: #2E78BC;
+}
+
+.navbar-brand{
+  color: #F90;
+}
+
+.containerft {
+  background-color: #C6D4E1;
+  color: #2947A9;
+}
+
+footer{
+  padding-left: 130px;
+  padding-right: 130px;
+}
