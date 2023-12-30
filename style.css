@@ -14,7 +14,7 @@
   display: table-cell;
 }
 
-.navbar{
+nav{
   background-color: #2E78BC;
 }
 
@@ -22,12 +22,14 @@
   color: #F90;
 }
 
-.containerft {
-  background-color: #C6D4E1;
-  color: #2947A9;
+footer p{
+  color: black;
 }
 
 footer{
+  background-color: #C6D4E1;
+  color: #2947A9;
   padding-left: 130px;
   padding-right: 130px;
+  background-color: #2E78BC;
 }
